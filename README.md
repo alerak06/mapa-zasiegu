@@ -9,6 +9,16 @@ Podajesz adres albo bierzesz swoją lokalizację z telefonu i dostajesz dla każ
   <img src="img/zgloszenie.png" width="320" alt="Zgłaszanie zasięgu">
 </p>
 
+## funkcje
+
+- teraz - zasięg w miejscu, w którym właśnie jesteś
+- szukaj - dowolny adres albo miejscowość w Polsce i wybranych krajach Europy
+- moja sieć - wybierasz swojego operatora i jego wynik jest wyróżniony, a za granicą widać sieci z tej samej grupy
+- wynik dla każdego operatora - ogólna ocena, odległość do najbliższego masztu i rozbicie na 5G, LTE, 3G i 2G
+- oznaczenie oficjalnych danych - wynik oparty na rejestrze UKE ma osobną plakietkę
+- zgłoś pomiar - wybierasz operatora, technologię i ile masz zasięgu, a zgłoszenie poprawia wynik dla innych
+- offline - zapisane wyniki są dostępne bez internetu
+
 ## skąd dane
 
 - OpenCellID - otwarta baza masztów, zbierana przez ludzi. Ma dużo danych, ale zasięgi bywają mocno zawyżone, więc je przycinam do rozsądnych wartości.
