@@ -4,6 +4,11 @@ Mapa zasięgu internetu mobilnego w Polsce. Mapy operatorów pokazują to, co wy
 
 Podajesz adres albo bierzesz swoją lokalizację z telefonu i dostajesz dla każdego z czterech dużych operatorów: jak dobry jest zasięg, jaka technologia (2G/3G/LTE/5G) i jak daleko jest najbliższy maszt. Można też samemu zgłosić, ile kresek masz w danym miejscu.
 
+<p>
+  <img src="img/wynik.png" width="320" alt="Wynik dla adresu w Łodzi">
+  <img src="img/zgloszenie.png" width="320" alt="Zgłaszanie zasięgu">
+</p>
+
 ## skąd dane
 
 - OpenCellID - otwarta baza masztów, zbierana przez ludzi. Ma dużo danych, ale zasięgi bywają mocno zawyżone, więc je przycinam do rozsądnych wartości.
